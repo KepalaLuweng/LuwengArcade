@@ -48,7 +48,7 @@ Game ini pada awalnya didedikasikan untuk **Tiger**, yang sedang berjuang keras 
 ## 📥 Cara Bermain & Download
 
 **📱 Pengguna Android:**
-1. Buka menu [**Releases**](https://github.com/USERNAME-KAMU/NAMA-REPO-KAMU/releases) di bagian kanan halaman ini. *(Catatan: Jangan lupa ganti link ini nanti dengan link aslimu ya!)*
+1. Buka menu [**Releases**](https://github.com/KepalaLuweng/LuwengArcade/releases) di bagian kanan halaman ini. *(Catatan: Jangan lupa ganti link ini nanti dengan link aslimu ya!)*
 2. Download file `LuwengArcade_v1.0.0.apk`.
 3. Instal di HP Android kamu (Izinkan "Install dari sumber tidak dikenal" jika diminta).
 4. Selamat bermain!
