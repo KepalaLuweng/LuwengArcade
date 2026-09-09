@@ -1,4 +1,4 @@
-# 🎮 Luweng Arcade - Epic Edition
+# 🎮 Luweng Arcade
 
 Selamat datang di **Luweng Arcade**! Sebuah koleksi mini-game *arcade* bergaya retro yang dibuat khusus dari hati. Game ini terinspirasi dari hewan-hewan kesayangan di rumah, khususnya keluarga kucing peliharaan: **Sisi, Tiger, Oyen, Boy, Tiny**, dan tentu saja si kaki seribu ikonik, **Luweng**!
 
