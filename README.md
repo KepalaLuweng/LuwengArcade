@@ -56,4 +56,4 @@ Game ini pada awalnya didedikasikan untuk **Tiger**, yang sedang berjuang keras 
 ---
 
 ## 👨‍💻 Developer
-Dibuat dengan ❤️ oleh **Darmawan Aditya (LuwengTech / Luweng Studios)**.
+Dibuat dengan ❤️ oleh **Darmawan Aditya (KepalaLuweng / LuwengTech / Luweng Studios)**.
