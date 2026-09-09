@@ -1,3 +1,17 @@
+<img width="1080" height="2436" alt="97961" src="https://github.com/user-attachments/assets/c84004d3-4c8a-4e02-a0eb-222bd7e0fe7a" />
+<img width="1080" height="2436" alt="97960" src="https://github.com/user-attachments/assets/ca2b129b-57ae-4ed8-b5c9-fce97e0e6738" />
+<img width="1080" height="2436" alt="97959" src="https://github.com/user-attachments/assets/a988ea99-fe5e-403e-bd33-dece7d704a79" />
+<img width="1080" height="2436" alt="97958" src="https://github.com/user-attachments/assets/5bf1e0bd-4f6b-4c1e-a2ed-4bd6a3479312" />
+<img width="1080" height="2436" alt="97957" src="https://github.com/user-attachments/assets/b8cf0fae-4e8a-4bfd-8936-074540ca2d4a" />
+<img width="1080" height="2436" alt="97956" src="https://github.com/user-attachments/assets/ca5818a4-ab5a-43cb-8b13-747c3f6592cf" />
+<img width="1080" height="2436" alt="97955" src="https://github.com/user-attachments/assets/1563d3a0-9226-414b-9e6f-41cab84296b7" />
+<img width="1080" height="2436" alt="97954" src="https://github.com/user-attachments/assets/b4608f48-9d55-4d2d-b814-bc8f5703a352" />
+<img width="1080" height="2436" alt="97953" src="https://github.com/user-attachments/assets/bf3d31ce-3c12-4d8f-818c-9d0b7024b4c5" />
+<img width="1080" height="2436" alt="97952" src="https://github.com/user-attachments/assets/3c52ff30-5fa6-4ff9-a9ec-926bf8c0649c" />
+<img width="1080" height="2436" alt="97951" src="https://github.com/user-attachments/assets/4133bdf7-72d7-4357-8df3-5372dbe96456" />
+<img width="1080" height="2436" alt="97950" src="https://github.com/user-attachments/assets/c305aa9f-ef73-4cee-afdc-62b3d6ae703e" />
+<img width="1080" height="2436" alt="97949" src="https://github.com/user-attachments/assets/65907b4b-9c9f-4113-9a0c-140d2861212d" />
+<img width="1080" height="2436" alt="97948" src="https://github.com/user-attachments/assets/618a9887-5afb-4e5b-8d98-90ed6b0d972b" />
 # 🎮 Luweng Arcade
 
 Selamat datang di **Luweng Arcade**! Sebuah koleksi mini-game *arcade* bergaya retro yang dibuat khusus dari hati. Game ini terinspirasi dari hewan-hewan kesayangan di rumah, khususnya keluarga kucing peliharaan: **Sisi, Tiger, Oyen, Boy, Tiny**, dan tentu saja si kaki seribu ikonik, **Luweng**!
